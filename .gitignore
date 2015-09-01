@@ -2,8 +2,8 @@
 logs/
 
 # txt files
-docs/*.txt
+docs/*.php
 
 
 # php files
-htdocs/*.php
+htdocs/*.txt
